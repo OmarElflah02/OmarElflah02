@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 About Me
-Experienced in building responsive and dynamic web applications with a strong focus on component-based architecture and modern UI development and I enjoy solving problems, optimizing performance, and creating seamless user experiences. Currently expanding my knowledge in advanced React patterns and scalable front-end architecture.
+Frontend Developer with 3+ years of experience developing responsive and dynamic web applications using modern JavaScript and React. Passionate about building scalable, high-performance user interfaces, solving technical challenges, and delivering exceptional user experiences. Continuously learning and exploring advanced front-end architectures and best practices.
 
 ---
 
