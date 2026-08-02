@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 About Me
-Frontend Developer with 3+ years of experience developing responsive and dynamic web applications using modern JavaScript and React. Passionate about building scalable, high-performance user interfaces, solving technical challenges, and delivering exceptional user experiences. Continuously learning and exploring advanced front-end architectures and best practices.
+Frontend Developer with 2+ years of experience developing responsive and dynamic web applications using modern JavaScript and React. Passionate about building scalable, high-performance user interfaces, solving technical challenges, and delivering exceptional user experiences. Continuously learning and exploring advanced front-end architectures and best practices.
 
 ---
 
