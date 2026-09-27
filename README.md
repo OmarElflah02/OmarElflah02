@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ali </h1>
-<h3 align="center">Software Engineer | Front-End Developer </h3>
+<h3 align="center">Software Engineer | Front-End Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmarElflah02&label=Profile%20views&color=0e75b6&style=flat" alt="OmarElflah02" />
@@ -32,8 +32,7 @@
 ---
 
 ### 🚀 About Me
-Frontend Developer with 2+ years of experience developing responsive and dynamic web applications using modern JavaScript and React. Passionate about building scalable, high-performance user interfaces, solving technical challenges, and delivering exceptional user experiences. Continuously learning and exploring advanced front-end architectures and best practices.
-
+I'm a Frontend Engineer passionate about building responsive, dynamic web applications using modern JavaScript and React. Currently mentoring frontend students , guiding them through real-world projects and modern architectures. I enjoy turning complex problems into scalable, high-performance user interfaces that deliver a great user experience. I'm always learning and exploring advanced front-end architectures.
 ---
 
 ### 🛠️ My Tech Stack
