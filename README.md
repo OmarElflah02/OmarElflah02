@@ -33,6 +33,7 @@
 
 ### 🚀 About Me
 I'm a Frontend Engineer passionate about building responsive, dynamic web applications using modern JavaScript and React. Currently mentoring frontend students , guiding them through real-world projects and modern architectures. I enjoy turning complex problems into scalable, high-performance user interfaces that deliver a great user experience. I'm always learning and exploring advanced front-end architectures.
+
 ---
 
 ### 🛠️ My Tech Stack
