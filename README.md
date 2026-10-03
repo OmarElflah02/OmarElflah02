@@ -23,11 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OmarElflah02&no-frame=true&theme=darkhub&row=1&column=4&title=Stars,Followers,Commits,Repositories" alt="Omar's GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
