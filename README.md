@@ -157,13 +157,15 @@ I enjoy turning complex problems into clean, scalable, and high-performance user
 
 ## 📌 Featured Projects
 
-### 📝 React Todo App
+### 📝 TaskFlow — React Todo App
 
 A modern Todo application built with React, using:
 
-* React Hooks
-* `useReducer`
-* `useContext`
+* React Hook Form
+* Zustand
+* Zod
+* @hookform/resolvers
+* React Hot Toast
 * Local Storage
 
 ---
